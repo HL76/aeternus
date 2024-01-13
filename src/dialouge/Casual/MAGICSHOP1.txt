@@ -1,0 +1,3 @@
+Magic Merchant;50;Your 'Reaping Power' will gradually increase as you gain levels.€ Might have noticed it already.€ Starting with 1.0, you should expect an increase of around 500% each level.
+Player;50;Isn't that€.€.€. incredibly high?
+Magic Merchant;50;You will most certainly need it.€ Believe me.

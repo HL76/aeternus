@@ -1,0 +1,10 @@
+Player;50;Not too shabby.
+Servant;50;This place.€.€.€ it is overflowing with souls
+Player;50;Is it now?
+Servant;60;.€.€.€ That engine.€ That's the epicenter
+Player;40;Shall we see it roar to life?
+Servant;50;I wish for nothing more, my liege.
+Engine;60;<Bellows cyan flames>
+Player;50;She's a beast.€ We'll reap every soul in this region with her.€
+Servant;60;Astonishing.€
+Player;50;Let's get to work 

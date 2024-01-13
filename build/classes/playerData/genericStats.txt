@@ -1,0 +1,4 @@
+ItemsBurned;0
+ItemsMerged;0
+PortalsEntered;0
+LabyrinthsWon;0

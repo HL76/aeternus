@@ -1,0 +1,4 @@
+Player;50;So,€€ where do you get the materials for all this?€ What do you even do with unsold inventory around here?
+Weapon Merchant;50;Oh,€ I gather everything I need from the area.€ Other stuff I simply sell through a dimensional gate.
+Player;50;Could that gate perhaps-
+Weapon Merchant;50;It cannot transport living matter unfortunately.€ Magic items and gold only.

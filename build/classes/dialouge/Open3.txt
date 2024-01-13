@@ -1,0 +1,9 @@
+Servant;50;Here we are.
+Player;50;How quaint.€ What were you so worried about?
+Servant;50;Take a look at the peaks.€ Recognize them?
+Player;60;.€.€.€ You have got to be kidding me.
+Servant;40;It appears we are in the uncharted regions.
+Player;50;Just my luck.
+Servant;60;How do you plan on getting home?
+Player;50;I'll figure that out later.€ For now, let's talk to the locals.
+Servant;60;Excellent idea.€ I shall wait in the shadows.

@@ -1,0 +1,26 @@
+;50;<Bell jingle>
+Player;50;Uh. €Hello?
+Magic Merchant;50;<Loud crashing noise in the back>
+Player;50;.€ .€ .€ ?
+Magic Merchant;40;Apologies!€ Looking for a document.€ How may I he-€€ who are you?
+Player;50;Excuse me?
+Magic Merchant;60;We haven't had a new visitor in ages!€ I'm Isaac O'faolain.€ Nice to see a new face.
+Player;50;Likewise.€ Unfortunately, I was brought here against my will.€ May I ask if you have a spell to port me back out of the uncharted regions?
+Magic Merchant;60;Oh my, I'm sorry to hear that.€ You however seem to already know the answer to this question of yours.
+Player;50;It is impossible isn't it?
+Magic Merchant;50;Not entirely.€ Granted,€ one must walk a dark path to achieve it.
+;60;<Distant thunder>
+Player;50;<Maybe it's not too late to try and walk home>
+Magic Merchant;50;Are you familiar with the ancient art of soul reaping?
+Player;50;.€.€.€ Wait really?€ I thought you were talking about dark arts there.€ Reaping souls is kindergarden stuff.
+Magic Merchant;50;Excuse me?
+Player;50;You are not reaping human souls excusively.€ Any living creatures that die get thrown into the mix. What do I care if some flies never see the afterlife?
+Magic Merchant;50;.€.€.€ You're more laid back about this than I thought you would be.
+Player;50;I have experience.€ <Snaps>
+Servant;50;<Shadow Step>
+Servant;50;My liege.
+Magic Merchant;50;Point in case, you are the man for the job.
+Player;50;Job?
+Magic Merchant;50;Not long ago we lost our reaper.€ He supplied us with enough souls to run the city.
+Player;50;Did he now?€ Let's see how long it takes me to surpass him.
+Magic Merchant;50;Oho, I like that attitude.€ His old quarters are just across the street.€ You should have no trouble finding it.

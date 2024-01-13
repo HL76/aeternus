@@ -1,0 +1,10 @@
+Player;500;. . .
+Player;50;Damn those foolish adventurers
+Player;40;Who would've thought they have a banishing spell?€ Haven't seen one of those since the war.
+Player;50;Regardless, where in the nine hells did they send me?€ The traces of ambient magic are unfamiliar.
+Player;60;I wonder...
+;50;<Summoning Spell>
+Servant;60;At your service, my liege.
+Player;50;Enough formalities.€ Get up and find a way to the surface.€ Be careful not to get spotted.
+Servant;60;As you command.
+;50;<Shadow Step>

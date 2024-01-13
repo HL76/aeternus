@@ -1,0 +1,5 @@
+Magic Merchant;50;I was born in the Stagian empire you know?€ Needed a change of scenery so I ventured into the uncharted regions to try my luck.€ Ended up finding this quaint little village so I decided to stay for a while.
+Player;50;When was that exactly?
+Magic Merchant;50;Hmmm€ 96 years ago perhaps.
+Player;50;??
+Magic Merchant;50;It went by in a blink of an eye.€ I might try my luck in Oclon next.

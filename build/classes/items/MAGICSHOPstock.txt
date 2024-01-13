@@ -1,0 +1,2 @@
+018;common
+019;uncommon

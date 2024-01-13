@@ -1,0 +1,4 @@
+FirstMeetMagic;unlock;BASE
+UnlockPortalsMagic;unlock;PORTAL
+FirstEnterBase;unlock;WEAPONSHOP
+FirstLabyrinthLost;setFlag;WEAPONSHOP;WeaponUnlocked

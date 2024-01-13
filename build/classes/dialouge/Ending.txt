@@ -1,0 +1,4 @@
+Magic Merchant;50;Merlin's beard.€ You've done it!€ I can see your aura.€ Which means, you have enough souls for me to supercharge a teleportation spell and send you anywhere!€ But before that, you need to make sure all the gear on you is no less than legendary status.€ If I activate something half a step away from high magic without the proper protection you can lose your life.
+Player;50;I will keep that in mind.
+Magic Merchant;50;Until then you can freely keep ransacking the labyrinth as you wish.€ Visit me and talk when you feel ready and I shall help.
+Player;50;Thanks,€ Isaac.

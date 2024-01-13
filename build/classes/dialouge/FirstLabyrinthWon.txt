@@ -1,0 +1,7 @@
+Player;50;Either I weakened on this trip across the continent or these monsters are incredible strong.
+Magic Merchant;50;Whatever do you mean?
+Player;50;Look at me.€ I should've been able to level that place in seconds.€ They even managed to damage me.
+Magic Merchant;50;Well,€ I suppose you ought to grow strong again.€€ Can I trust that you won't give up from such a setback?
+Player;50;Who do you think you're talking to?€ I didn't fistfight a dragon just to end up dying in a village out in the middle of nowhere.
+Magic Merchant;50;That's the spirit.€ From now I will start digging through old inventory to find magic items that can help you.
+Player;50;Thank you.€

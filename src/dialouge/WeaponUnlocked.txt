@@ -1,0 +1,6 @@
+Weapon Merchant;50;I've heard the old gate booming in the woods.€ So€ you're the new reaper I take it.€ I'm Arthur.€ The best blacksmith in the area.
+Player;50;Meaning the *only* blacksmith in the area?
+Weapon Merchant;50;Whatever the sentence still stands.€ Now that you've felt the bite of the labyrinths,€ you've come to purchase better gear I assume?
+Player;50;Your intuition is otherworldly sir.
+Weapon Merchant;50;Heh€ well anyway I don't have much right now.€ You're welcome to browse and I'll work on more items.
+Player;50;I appreciate that.

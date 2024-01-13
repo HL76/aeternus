@@ -1,0 +1,9 @@
+Player;50;Are these€.€.€ equipment pieces?€ All burnt to ash.
+Servant;50;Seems like it, my liege.
+Player;50;Why would the previous reaper burn his items?€ He went mad?€ Or the villagers forced him?
+Servant;50;I believe I might know why.
+Player;50; €€Well?
+Servant;50;Latent Souls.€ The ones weaved into the fabric and molten into the metal upon an items creation.€ Burning these in the engine would provide a boost to your available soul production.
+Player;50;How big of a boost?
+Servant;50;That is entirely dependent on one's skill.€ A novice setting legendary artifacts aflame might only get a fraction of a seasoned reaper burning common gear.€ Increasing this skill would require you to burn more and more of your gear.€ I however know you find destroying magical items distasteful.€ You could just ignore this option outright.
+Player;50;.€.€.€No.€ I'll see to it that unused gear fuels our way home.€€ It would be bothersome to carry everything after a while anyway.

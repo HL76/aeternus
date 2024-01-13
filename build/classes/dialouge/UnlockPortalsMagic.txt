@@ -1,0 +1,9 @@
+Magic Merchant;50;Incredible time.€ The last reaper took a few days to get where you are now.€ Lots of ideological debates before he gave in, no doubt.€ Regardless,€ I'll show you the next step of your journey.
+Player;50;Wait I though this was it?€ Gather souls to get home?
+Magic Merchant;50;If only it was that simple.€ No.€ You must use this power to fuel an ancient gate we have just outside our city.€ Through there, you may venture to a different place.
+Player;50;Meaning, home?
+Magic Merchant;50;An ancient labyrinth.€ Left behind by a race that came before us.€ There, you will find artifacts.€ Artifacts, that might enable you to leave for your homeland.
+Player;50;.€.€.€Is this how the previous reaper met his end?
+Magic Merchant;50;Unfortunately so.€ Yet it is the only path laid before you.€ Make your choice.€Will you stay here for all eternity,€ or risk it all for a chance at seeing home.
+Player;50;.€.€.€
+Player;50;Fine.€ Lead me to the gate.

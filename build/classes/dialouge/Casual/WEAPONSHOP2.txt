@@ -1,0 +1,3 @@
+Weapon Merchant;50;Whatever you do,€ never burn items in the soul forge that you are using.
+Player;50;Figured as much.
+Weapon Merchant;50;Not everyone has common sense.€ I am glad to see you do!

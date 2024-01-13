@@ -1,0 +1,6 @@
+MAGICSHOP
+WEAPONSHOP
+BASE
+PORTAL
+Burn Items
+Merge Items

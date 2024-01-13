@@ -1,0 +1,10 @@
+Magic Merchant;50;Merlin's beard.€ It's still in one piece.€
+Player;50;You weren't sure?
+Magic Merchant;50;Not by a longshot.€ Anywho, you need to spend the souls to bring the ancient magic into motion.
+Player;50;What then?
+Magic Merchant;50;Then, you enter and fight.€ The labyrinth is ever changing.€ Whenever you enter you will be faced with a different layout.
+Player;50;Will this trip always cost me 10.000 souls?
+Magic Merchant;50;No.€ This is to kickstart the gate.€ Time is the major factor in your visits.€ Activating the gate sends it into a cooldown of sorts.€ Until the magic can recuperate from ambient mana.
+Player;50;Then let's see if this still works
+Player;50;<Lifts hand to expend souls>
+Magic Merchant;50;Good luck.€ I shall await your arrival.

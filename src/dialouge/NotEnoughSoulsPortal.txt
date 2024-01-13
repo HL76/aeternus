@@ -1,0 +1,4 @@
+Magic Merchant;50;Hang on a minute€.€.€.€ did you spend the souls required to launch the gate?
+Player;50;Well
+Magic Merchant;50;Oh for crying out loud.€ Did you think I was perhaps jesting when I said that amount?€ Get back to me when you have the required souls
+Player;50;Fair enough

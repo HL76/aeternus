@@ -1,0 +1,3 @@
+Weapon Merchant;50;I don't suppose you have found a hammer in the labyrinth?
+Player;50;No?€€ Did you lose one in there?
+Weapon Merchant;50;Unfortunately.€ Well I'll have to make do without it.

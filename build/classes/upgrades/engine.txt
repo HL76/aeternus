@@ -1,0 +1,8 @@
+Scythe;0;15;0.1;Autonomous helpers operating the Engine
+Reaper Assistant;0;100;1;Smaller versions of the real deal.
+Shrine;0;1100;8;Here, you pray to the God of Death.
+Graveyard;0;12000;47;An excellent choice to add to your soul stream.
+Soylent Green Factory;0;130000;260;Food for the people, by the people.
+SCP Foundation Site;0;1400000;1400;D-class still have souls after all!
+Gate to Hell;0;20000000;7800;Trust me. They would rather be here than there.
+Leave;0;0;0;Back to the Base

@@ -1,0 +1,11 @@
+008;uncommon
+011;rare
+016;uncommon
+014;rare
+002;rare
+014;common
+001;uncommon
+007;common
+002;common
+001;legendary
+011;epic

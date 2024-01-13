@@ -1,0 +1,7 @@
+Player;50;How long have you been here anyway?
+Weapon Merchant;50;Well,€ I'd say 10-12.
+Player;50; €€12 what?€ Months?€ Years?
+Weapon Merchant;50;You know what maybe even 13.
+Player;50;13 *what*?
+Weapon Merchant;50;But probably not more than 14 over all.
+Player;50;Okay this is going nowhere.

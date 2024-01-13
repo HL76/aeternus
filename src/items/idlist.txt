@@ -1,0 +1,29 @@
+001;Simple Shortsword;weapon;none
+002;Spiked Shield;weapon;con
+003;Chipped Shortsword;weapon;dex
+004;Wizard's Staff;weapon;int
+005;Moonlight Greatsword;weapon;int
+006;Coldiron Crescent Greatsword;weapon;str
+007;Simple Cap;helmet;1;none
+008;Wizard's Hat;helmet;3;int
+009;Shadow Faceguard;helmet;5;dex
+010;Blue Demon Mask;helmet;8;con
+011;Coldiron Helm;helmet;10;str
+012;Travellers Clothing;chestpiece;5;none
+013;Wizard's Robes;chestpiece;8;int
+014;Leather Armor;chestpiece;10;dex
+015;Demonic Armor;chestpiece;12;con
+016;Plate Armor;chestpiece;15;str
+017;Pot of Luck;charm;lck
+018;Phoenix Feather;charm;int
+019;Amulet of Health;charm;con
+020;Ring of Lion Strength;charm;str
+021;Strange Pocketwatch;charm;dex
+022;Belt of Giant Strength;charm;str
+023;Moonstone Shard;charm;int
+024;Vial of Life;charm;con
+025;Ring of the Towermaster;charm;int
+026;2 Headed Coin;charm;lck
+027;Deck of Many Things;charm;lck
+028;Warhero Medallion;charm;con
+029;Ring of Featherweight;charm;dex

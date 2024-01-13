@@ -1,0 +1,7 @@
+Player;50;What kind of lions den did you send me into old man?€ There's no way I've weakened this much.
+Magic Merchant;50;Whatever do you mean?
+Player;50;Look at me.€ I should've been able to level that place in seconds.€ Yet here I am after getting my ass kicked.
+Magic Merchant;50;Well,€ I suppose you ought to grow strong again.€€ Can I trust that you won't give up from such a setback?
+Player;50;Who do you think you're talking to?€ I didn't fistfight a dragon just to end up dying in a village out in the middle of nowhere.€ Once I'm don I'm burning this gate to the ground
+Magic Merchant;50;I'd appreciat if you didn't do that.€ However,€ from now I will start digging through old inventory to find magic items that can help you.
+Player;50;Thanks.€

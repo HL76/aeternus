@@ -1,0 +1,9 @@
+Player;500;. . .
+Servant;50;<Shadow Step>
+Player;50;What did you find?
+Servant;60;We€. €. €. €are in trouble.
+Player;40;Ellaborate
+Servant;50;We are near a city.€ Small population.€ No adventurers in sight..
+Player;60;And now the bad news?
+Servant;50;It is best if I show you.
+;60;<Shadow Step>

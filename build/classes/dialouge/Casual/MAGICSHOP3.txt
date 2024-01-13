@@ -1,0 +1,6 @@
+Player;50;Where is everyone by the way?€ The village seems dead silent.
+Magic Merchant;50;Oh right, I neglected to mention that you won't see the villagers.€ They do however see you.
+Player;50; €€€Come again?
+Magic Merchant;50;There is a curse bestowed upon everyone born here to be effectively invisible to outsiders.€ I and Arthur are from other places so we're visible to you.
+Player;50;Well isn't that convenient.
+Magic Merchant;50;Terribly so.

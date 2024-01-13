@@ -1,0 +1,4 @@
+Magic Merchant;50;I would heavily advise against trying to merge two legendary items.€
+Player;50;Attempting that is completely pointless.€ Why are you even telling me this?
+Magic Merchant;50;The previous reaper tried.€ Once.
+Player;50; €€€Fair

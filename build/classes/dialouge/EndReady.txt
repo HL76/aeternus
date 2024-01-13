@@ -1,0 +1,7 @@
+Magic Merchant;50;You have prepared.€ Shall we?
+Player;50;I'm ready.€ Let's do this.
+Magic Merchant;50;It has been fun to see someone new if you don't mind me saying.€ Do visit if you have the chance.€.€.€ it never occured to me but,€ you've neglected to tell me a name before didn't you?
+Player;50;I have.€ My name has long lost it's meaning.€ I see no reason not to share it I suppose.€€ Kraus.€ Kraus Northwood.
+Magic Merchant;50;Best of luck Mr. Northwood.
+Player;50;You too Isaac.
+Player;50;<Teleports with a deafening boom>

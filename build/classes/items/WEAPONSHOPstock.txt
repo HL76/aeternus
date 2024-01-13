@@ -1,0 +1,2 @@
+002;common
+012;rare

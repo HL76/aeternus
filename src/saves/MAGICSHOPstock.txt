@@ -1,0 +1,15 @@
+017;legendary
+023;legendary
+029;rare
+021;common
+022;legendary
+026;common
+019;common
+023;common
+021;common
+024;common
+022;common
+022;common
+026;common
+022;uncommon
+024;common

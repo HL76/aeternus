@@ -1,0 +1,9 @@
+Player;50;This is an item merger!€ I used to have one of these when I was starting out.
+Servant;50;It is in good shape.€ I am however not familiar with this 'item merger'.
+Player;50;It upgrades items in essence.€ You take 2 of anything that are of the same make and caliber and attempt to fuse them with an energy source.
+Servant;50;Souls in this case I assume?
+Player;50;Correct.€ It's dangerous unfortunately.€ Once in motion, you forfeit one of the items as part of the process regardless of success.€ But if you wanna make an omelet you have to crack a few eggs.
+Servant;50;What is an omelet?
+Player;50;.€.€.€You know what forget it.
+Servant;50;Will you be using this?€ Won't harm come to you in this state?
+Player;50;I'm fine.€ It requires skill but I should be able to operate it.€ You just worry about keeping the engine lit.
